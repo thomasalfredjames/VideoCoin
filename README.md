@@ -1,13 +1,13 @@
-Bitcoin Core integration/staging tree
+Bitcoin Core imatated/staging tree known as Dracoin.
 =====================================
 
 https://bitcoincore.org
 
-What is Bitcoin?
+What is Dracoin?
 ----------------
 
-Bitcoin is an experimental digital currency that enables instant payments to
-anyone, anywhere in the world. Bitcoin uses peer-to-peer technology to operate
+Dracoin is an experimental digital currency that enables instant payments to
+anyone, anywhere in the world. Just like bitcoin it uses peer-to-peer technology to operate
 with no central authority: managing transactions and issuing money are carried
 out collectively by the network. Bitcoin Core is the name of open source
 software which enables the use of this currency.
